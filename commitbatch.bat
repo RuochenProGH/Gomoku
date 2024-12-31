@@ -1,4 +1,4 @@
 git add . 
-git commit -m "framework updated"
+git commit -m "removing batch"
 git push
 pause
